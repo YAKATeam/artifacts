@@ -5,6 +5,8 @@
 ### Usage
 **👉 You can download YAKA's artifacts from [this page](https://github.com/YAKATeam/artifacts/releases/). It's always safe and ready to download.**
 
+[![Download](https://rule34.xxx/counter/2.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/2.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/5.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/4.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) 
+
 ### Contribute
 **👋 You can contribute by push your patches / fixes about parsers in [this repository](https://github.com/YAKATeam/kotatsu-parsers). You can also add / edit translations [here](https://github.com/YAKATeam/translate).**
 
