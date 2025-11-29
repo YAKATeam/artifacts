@@ -6,8 +6,8 @@
 **👉 You can download these artifacts from [this page](https://github.com/YAKATeam/artifacts/releases/). It's always safe and ready to download.**
 
 <div align="center">
-  
-[![Download](https://rule34.xxx/counter/2.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/2.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/5.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) [![Download](https://rule34.xxx/counter/4.gif)](https://github.com/KotatsuApp/kotatsu-nightly/releases/latest) 
+
+[![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/5.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/9.gif)](https://github.com/YakaTeam/artifacts/releases/latest) 
 
 </div>
 
